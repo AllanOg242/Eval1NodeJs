@@ -1,5 +1,5 @@
 server.on('connection', (socket) => {
     console.log('connexion');
 });
-server.listen(3006);
-console.log('serveur ecoute sur le port 3006');
+server.listen(5000);
+console.log('serveur ecoute sur le port 5000');
